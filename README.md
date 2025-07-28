@@ -1,4 +1,4 @@
-# Shingles-prediction-project
+# Shingles-prediction-Yandex-project
 
 Данные - шинглы (от 0 до N чисел соответствующих закодированным словам, которые характеризуют картинки сайтов - фишинговые и нет)
 
